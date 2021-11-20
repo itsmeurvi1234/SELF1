@@ -1,1 +1,2 @@
-# SELF1
+# trex
+Chrome's trex game created using p5.play
